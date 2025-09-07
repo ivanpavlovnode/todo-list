@@ -1,0 +1,18 @@
+@font-face{
+    font-family: 'Orbitron';
+    src: url('assets/Orbitron.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'Jura';
+    src: url('assets/Jura.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'MajorMono';
+    src: url('assets/MajorMono.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
